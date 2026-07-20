@@ -1,0 +1,3 @@
+<!DOCTYPE html><html><head><title>Wilderness Reserve</title><link rel="stylesheet" href="css/style.css"></head><body><nav>
+<a href='index.php'>Home</a> | <a href='login.php'>Login</a> | <a href='signup.php'>Signup</a> | <a href='profile.php'>Profile</a> | <a href='groups.php'>Groups</a> | <a href='trips.php'>Trips</a> | <a href='reviews.php'>Reviews</a> | <a href='contact.php'>Contact</a>
+</nav><hr>
